@@ -1,6 +1,6 @@
 # StephanBeacham
 Portfolio
-<h1>Hi, I'm Tyler! <br/><a href="https://www.linkedin.com/in/tyler-pham-860392214/">Aspiring Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Stephan! <br/><a href="(https://www.linkedin.com/in/stephan-beacham-948651183/)">Aspiring Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
